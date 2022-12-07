@@ -10,12 +10,15 @@
     "resolve-url-loader": "^5.0.0",
     "sass": "^1.56.1",
     "sass-loader": "^12.1.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.3",
     "webpack-cli": "^5.0.1",
     "webpack-livereload-plugin": "^1.2.0"
   },
   "scripts": {
     "build": "npx mix --production",
-    "start": "webpack serve --config webpack.config.dev.js"
+    "start": "webpack serve --config webpack.config.dev.js",
+    "flush": "npx rimraf ./**/node_modules"
   },
   "browserslist": [
     "last 2 versions",

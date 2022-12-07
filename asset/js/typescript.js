@@ -1,0 +1,2 @@
+!function(){var e=document.querySelector("#ts"),t=e.querySelector("img"),r=e.querySelector("p");t.src="/asset/img/happy-cat.png",r.textContent="".concat("Everything"," is Working!")}();
+//# sourceMappingURL=typescript.js.map

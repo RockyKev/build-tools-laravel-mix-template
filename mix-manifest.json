@@ -1,4 +1,9 @@
 {
+    "/asset/js/library.js": "/asset/js/library.js",
+    "/asset/js/typescript.js": "/asset/js/typescript.js",
     "/asset/css/style.css": "/asset/css/style.css",
-    "/asset/js/index.js": "/asset/js/index.js"
+    "/asset/js/index.js": "/asset/js/index.js",
+    "/asset/img/happy-cat.png": "/asset/img/happy-cat.png",
+    "/asset/img/pixel-bg.jpg": "/asset/img/pixel-bg.jpg",
+    "/asset/img/sad-cat.png": "/asset/img/sad-cat.png"
 }
