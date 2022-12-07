@@ -1,0 +1,1 @@
+console.log("I'm custom debug code!");var jsElement=document.querySelector("#js"),jsImage=jsElement.querySelector("img"),jsHeader=jsElement.querySelector("h2"),jsContent=jsElement.querySelector("p");jsImage.src="/asset/img/happy-cat.png",jsContent.innerText="Everything is working!";

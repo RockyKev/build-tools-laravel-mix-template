@@ -2,10 +2,11 @@
   "name": "webpack-starter-template",
   "version": "1.0.0",
   "devDependencies": {
-    "laravel-mix": "^6.0.49"
+    "laravel-mix": "^6.0.49",
+    "webpack-cli": "^5.0.1"
   },
   "scripts": {
-    "build": "cross-env NODE_ENV=production webpack --config webpack.config.prod.js",
+    "build": "npx mix --production",
     "start": "webpack serve --config webpack.config.dev.js"
   },
   "browserslist": [
