@@ -1,0 +1,30 @@
+@import "./yoink.scss";
+
+footer {
+  p {
+    text-align: center;
+    color: white;
+  }
+}
+
+.container {
+
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+
+    .column {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+
+      img {
+        max-width: 300px;
+        max-height: 300px;
+      }
+    }
+  }
+
+}
