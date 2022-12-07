@@ -2,7 +2,7 @@
 
 This is part of the [Build Tools Presentation](https://github.com/RockyKev/slides-build-tools)
 
-This gulp Starter Template was rebuilt for the latest Node LTS (v18.12.1).
+This Laravel-Mix Starter Template was rebuilt for the latest Node LTS (v18.12.1).
 
 
 ## Installation
